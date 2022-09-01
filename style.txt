@@ -12,6 +12,14 @@
 
 
 
+<<<<<<< HEAD
  add file to branch ahmad
  afdjlkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
  hfdhjkdsjksfjda
+=======
+ add file to branch <div class="alert alert-primary" role="alert"><strong>Warning!</strong><a href="#" class="alert-link">Click Here</a></div>aahmad]
+ dfkjjfjfdfdkfdkfddf
+
+
+ fdokfkdkfdkkjfdk
+>>>>>>> master
